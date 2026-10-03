@@ -1,6 +1,12 @@
 [
   {
     "version": "0.1.0",
+    "build": 4,
+    "date": "2026-10-03",
+    "notes": "New: in-game Codex and Feedback (title screen and pause menu), and a .deb package for Debian/Ubuntu alongside the AppImage. Controls screen fixed."
+  },
+  {
+    "version": "0.1.0",
     "build": 3,
     "date": "2026-10-03",
     "notes": "Execute legendaries nerfed: execute below 10% HP, bosses there take +50% spender damage (was 20% and double)"
