@@ -1,6 +1,12 @@
 [
   {
     "version": "0.1.0",
+    "build": 5,
+    "date": "2026-10-03",
+    "notes": "New: after each Normal boss, a quick optional survey asks how the fight felt (fun, mechanics, difficulty, length). Tell us what you think of each boss!"
+  },
+  {
+    "version": "0.1.0",
     "build": 4,
     "date": "2026-10-03",
     "notes": "New: in-game Codex and Feedback (title screen and pause menu), and a .deb package for Debian/Ubuntu alongside the AppImage. Controls screen fixed."
