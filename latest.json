@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
-  "build": 7,
+  "build": 8,
   "date": "2026-10-04",
-  "notes": "Visual enhancement to move the game closer to the marketing look and feel. Also fixed: enemies no longer spin when you're right above them.",
+  "notes": "Boss fights are now recorded (positions and damage only, no video) to help tune the bosses. Fixed: the Ranger's Hunting Pack capstone now works.",
   "url": "https://lawlgames.itch.io/ashlit"
 }
