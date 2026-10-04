@@ -1,6 +1,12 @@
 [
   {
     "version": "0.1.0",
+    "build": 7,
+    "date": "2026-10-04",
+    "notes": "Visual enhancement to move the game closer to the marketing look and feel. Also fixed: enemies no longer spin when you're right above them."
+  },
+  {
+    "version": "0.1.0",
     "build": 6,
     "date": "2026-10-04",
     "notes": "Fixes: the Rotting Stag no longer gets stuck on the wall after a slam (his follow-up charges now run). No more input lag at low or critical health. Up + Attack now has a 1s cooldown for every class; the Paladin's air up-thrust is once per jump and resets when you land."
