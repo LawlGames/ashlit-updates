@@ -1,6 +1,12 @@
 [
   {
     "version": "0.1.0",
+    "build": 20,
+    "date": "2026-10-05",
+    "notes": "New in Settings › This copy: your player and session IDs (with Copy buttons) to share with bug reports, and a name you can set, like your name or Discord name, so we can group your feedback and follow up with questions."
+  },
+  {
+    "version": "0.1.0",
     "build": 19,
     "date": "2026-10-05",
     "notes": "Attack warnings are now glowing ground markings that build up to the hit, so they're easier to read in a fight."
