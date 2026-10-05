@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
-  "build": 11,
+  "build": 13,
   "date": "2026-10-05",
-  "notes": "Fixed: the Rotting Stag's second stun wolf no longer spawns inside the arena wall. The codex now spells out his wolves' pounce and the Colossus's rounds.",
+  "notes": "Linux: the itch app now installs a version it can launch (it no longer picks the .deb). The .deb and the Steam Deck AppImage are separate downloads on the itch page.",
   "url": "https://lawlgames.itch.io/ashlit"
 }
