@@ -1,6 +1,12 @@
 [
   {
     "version": "0.1.0",
+    "build": 16,
+    "date": "2026-10-05",
+    "notes": "New: Exit game in the pause menu saves your progress before closing. Rotting Stag feedback is open again for his easier wolves."
+  },
+  {
+    "version": "0.1.0",
     "build": 15,
     "date": "2026-10-05",
     "notes": "Fixed (macOS): pressing Esc for the menu no longer takes the game out of full screen."
