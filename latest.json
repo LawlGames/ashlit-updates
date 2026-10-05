@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
-  "build": 13,
+  "build": 14,
   "date": "2026-10-05",
-  "notes": "Linux: the itch app now installs a version it can launch (it no longer picks the .deb). The .deb and the Steam Deck AppImage are separate downloads on the itch page.",
+  "notes": "The Rotting Stag is easier: his wolves have half the health and come one at a time (one per stun, one when he enrages), still never more than four.",
   "url": "https://lawlgames.itch.io/ashlit"
 }
