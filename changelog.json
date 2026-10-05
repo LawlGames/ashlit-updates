@@ -1,6 +1,12 @@
 [
   {
     "version": "0.1.0",
+    "build": 15,
+    "date": "2026-10-05",
+    "notes": "Fixed (macOS): pressing Esc for the menu no longer takes the game out of full screen."
+  },
+  {
+    "version": "0.1.0",
     "build": 14,
     "date": "2026-10-05",
     "notes": "The Rotting Stag is easier: his wolves have half the health and come one at a time (one per stun, one when he enrages), still never more than four."
