@@ -1,6 +1,12 @@
 [
   {
     "version": "0.1.0",
+    "build": 10,
+    "date": "2026-10-05",
+    "notes": "The Ossuary Colossus is reworked: walled into the crypt, his arms slam, slap and clap; break them to raise his Wardens, then he tears free and hunts you on foot. Ride the moving ledges. Boss feedback for the Colossus is open again."
+  },
+  {
+    "version": "0.1.0",
     "build": 9,
     "date": "2026-10-05",
     "notes": "The Rotting Stag is reworked: thorns fly when he charges, a new enraged Root Rush, and his wolves now pounce and pin you. Boss feedback for the Stag is open again. Fixed: wolves spinning in place."
