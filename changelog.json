@@ -1,6 +1,12 @@
 [
   {
     "version": "0.1.0",
+    "build": 18,
+    "date": "2026-10-05",
+    "notes": "Your Activator (R) now unlocks at level 10 and your Chain (C) at level 12 (were 12 and 20). If you're already past those levels, you'll pick them next time you play. Esc now closes whatever menu is open. Sound pauses while the game isn't the focused window, so no more stray gongs in the background. The portal home no longer washes out, and bloom glow is back on with a much softer look."
+  },
+  {
+    "version": "0.1.0",
     "build": 17,
     "date": "2026-10-05",
     "notes": "Exit game is now on the title screen and at the camp, and Esc there opens a menu. Bloom glow is off by default for a cleaner look (turn it back on in Settings)."
