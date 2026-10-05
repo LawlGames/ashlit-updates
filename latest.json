@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
-  "build": 16,
+  "build": 17,
   "date": "2026-10-05",
-  "notes": "New: Exit game in the pause menu saves your progress before closing. Rotting Stag feedback is open again for his easier wolves.",
+  "notes": "Exit game is now on the title screen and at the camp, and Esc there opens a menu. Bloom glow is off by default for a cleaner look (turn it back on in Settings).",
   "url": "https://lawlgames.itch.io/ashlit"
 }
