@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
-  "build": 20,
-  "date": "2026-10-05",
-  "notes": "New in Settings › This copy: your player and session IDs (with Copy buttons) to share with bug reports, and a name you can set, like your name or Discord name, so we can group your feedback and follow up with questions.",
+  "build": 21,
+  "date": "2026-10-06",
+  "notes": "Bosses have moved around to make the early game more enjoyable: Mother Mire and the Mirefen Bog now open the campaign, and the Rotting Stag and Blightwood move to stage 3, where its fight fits better. Mother Mire also stays on her perch casting until you close in on her, then teleports to the far perch.",
   "url": "https://lawlgames.itch.io/ashlit"
 }
